@@ -13,3 +13,8 @@
 
 ![Static Badge](https://img.shields.io/badge/py-shikimori-purple?style=for-the-badge&logo=shikimori)
 ![Static Badge](https://img.shields.io/badge/-youtube-orange?style=flat&logo=youtube)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PozAndkir&show_icons=true&theme=radical)
